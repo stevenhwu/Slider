@@ -1,0 +1,2 @@
+export(gelLRT)
+export(LRTPermTest)

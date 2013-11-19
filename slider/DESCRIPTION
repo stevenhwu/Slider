@@ -1,0 +1,10 @@
+Package: slider
+Type: Package
+Title: Statistical Likelihood model for Identifying Differential Expression in R
+Version: 1.5.2
+Date: 2011-08-10
+Author: Steven Wu
+Maintainer: Steven Wu <swu031@aucklanduni.ac.nz>
+Description: Using a likilihood model to identify differentially expressed proteins in 2D PAGE and take into account proteion's  expression intensities fall below the limit of detection. 
+License: GPL-3
+LazyLoad: yes
