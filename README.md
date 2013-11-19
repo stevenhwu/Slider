@@ -5,6 +5,7 @@ Statistical Likelihood model for Identifying Differential Expression in R
 
 This package is based on 
 A Statistical Model to Identify Differentially Expressed Proteins in 2D PAGE Gels
+
 Steven H. Wu, Michael A. Black, Robyn A. North, Kelly R. Atkinson, Allen G. Rodrigo
 
 http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000509
